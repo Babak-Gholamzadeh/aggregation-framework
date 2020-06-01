@@ -1,0 +1,28 @@
+{
+  "name": "aggregation-framework",
+  "version": "0.1.0",
+  "description": "Implementing the aggregatin framework of MongoDB but just works for in-memory collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babak-Gholamzadeh/aggregation-framework.git"
+  },
+  "keywords": [
+    "aggregation",
+    "aggregation-pipeline",
+    "pipeline",
+    "mongodb",
+    "json",
+    "collection",
+    "aggregate"
+  ],
+  "author": "Babak Gholamzadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Babak-Gholamzadeh/aggregation-framework/issues"
+  },
+  "homepage": "https://github.com/Babak-Gholamzadeh/aggregation-framework#readme"
+}
