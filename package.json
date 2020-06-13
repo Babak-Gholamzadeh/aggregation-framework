@@ -26,8 +26,10 @@
   },
   "homepage": "https://github.com/Babak-Gholamzadeh/aggregation-framework#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "composable-utils": "^0.1.7",
     "deeply-object-assign": "^1.0.0",
+    "express": "^4.17.1",
     "realtypeof": "^1.1.0"
   }
 }
