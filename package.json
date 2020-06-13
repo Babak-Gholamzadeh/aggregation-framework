@@ -27,6 +27,7 @@
   "homepage": "https://github.com/Babak-Gholamzadeh/aggregation-framework#readme",
   "dependencies": {
     "composable-utils": "^0.1.7",
+    "deeply-object-assign": "^1.0.0",
     "realtypeof": "^1.1.0"
   }
 }
